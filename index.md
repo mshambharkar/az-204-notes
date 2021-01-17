@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Index
+nav_order: 1
 ---
 
-Hello World !!
+Index within doc!!

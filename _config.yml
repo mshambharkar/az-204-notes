@@ -22,7 +22,7 @@ title: AZ-204 Notes
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Notes I wrote during preparation of AZ-204 , hope this helps future me or some else preparing for the same.
-baseurl: "/az-204-notes" # the subpath of your site, e.g. /blog
+baseurl: "az-204-notes" # the subpath of your site, e.g. /blog
 url: "https://mshambharkar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mshambharkar
